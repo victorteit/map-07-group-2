@@ -1,0 +1,4 @@
+Trigonometry is a branch of mathematics that studies relationships between side 
+lengths and angles of triangles.
+Math.sin()
+this 
